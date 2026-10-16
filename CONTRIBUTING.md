@@ -112,5 +112,6 @@ are not guaranteed.
 
 - CEO, **Totaliweb** (web agency): https://www.totaliweb.com
 - CEO, **Hostwebo** (managed WordPress hosting): https://www.hostwebo.com
+- CEO, **Hostwebo** (managed WordPress hosting): https://www.hostwebo.com
 
 This is an independent community resource, not an official Anthropic project.
