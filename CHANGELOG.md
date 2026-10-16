@@ -39,4 +39,3 @@ Dates use `YYYY-MM-DD`. This documentation project uses simple release tags
 **Totaliweb:** https://www.totaliweb.com  
 **Hostwebo:** https://www.hostwebo.com
 **Mailamber:** https://mailamber.app
-
